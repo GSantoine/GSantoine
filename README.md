@@ -4,7 +4,7 @@
   
   | Project link | Description |  Languages/Techs | Notions covered | Status |
   | :- | :-: | :-: | :-: | :-: |
-  | snow_crash | cyber security project : collection of 15 CTF exercices on a given ISO | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/> | basic reverse engineering and packet sniffing, binary exploitation | In progess... |
+  | snow_crash | cyber security project : collection of 15 CTF exercices on a given ISO | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/> | basic reverse engineering and packet sniffing, binary exploitation | Done |
 
   <h3>&emsp;Common Core Projects</h3>
   
