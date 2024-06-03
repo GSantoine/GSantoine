@@ -1,6 +1,15 @@
 ### Hi there 👋
+
+  <h3>👨‍💻&emsp;Main Languages</h3>
+    <p>
+        <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a>
+        <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=for-the-badge"></a>
+        <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
+        <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge"></a>
+        <a href="#"><img alr="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    </p>
   
-  <h3>&emsp;Post common-core projects</h3>
+  <h3>&emsp;Personal and post common-core projects</h3>
   
   | Project link | Description |  Languages/Techs | Notions covered | Status |
   | :- | :-: | :-: | :-: | :-: |
