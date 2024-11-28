@@ -45,7 +45,7 @@
   | Project link | Description |  Languages/Techs | Notions covered | Status |
   | :- | :-: | :-: | :-: | :-: |
   | snow_crash | cyber security project : collection of 15 CTF exercices on a given ISO | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/> | basic reverse engineering and packet sniffing, binary exploitation | Done |
-  | lib_asm | Creation of a utility library in x86_64 NASM assembly | <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"> | PIC and asm basics | Done |
+  | lib_asm | Creation of a utility library in x86_64 NASM assembly | <img alt="Assembly" src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"> | PIC and asm basics | Done |
   | python for AI | Collection of exercises aiming to introduce python for AI | <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"> | python applied to data analysis | Done |
 
   <h3>&emsp;Common Core Projects</h3>
